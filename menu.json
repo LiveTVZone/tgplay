@@ -1,6 +1,5 @@
 {
   "menu": [
-    {"label": "🌐 M3U-IP Browser", "action": "link:https://m3u-ip.tv/browser/"},
     {"label": "📺 Շանթ", "action": "video:https://s70378.cdn.ngenix.net/shant/1/index.m3u8"},
     {"label": "📺 Շանթ Premium", "action": "video:https://s70378.cdn.ngenix.net/shant_premium/1/index.m3u8"},
     {"label": "📺 Շանթ Գյումրի", "action": "video:https://s70378.cdn.ngenix.net/shant_gyumri/1/index.m3u8"},
