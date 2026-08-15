@@ -1,0 +1,14 @@
+{
+  "menu": [
+    {
+      "label": "HD Резка",
+      "action": "video:https://example.com/stream.m3u8",
+      "image": "https://example.com/icon.png"
+    },
+    {
+      "label": "Открыть сайт / Веб-приложение",
+      "action": "link:https://example.com/app",
+      "image": "https://example.com/app_icon.png"
+    }
+  ]
+}
