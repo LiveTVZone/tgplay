@@ -6,8 +6,8 @@
       "image": "https://example.com/icon.png"
     },
     {
-      "label": "Открыть сайт / Веб-приложение",
-      "action": "link:https://example.com/app",
+      "label": "M3U IPTV",
+      "action": "link:https://m3u-ip.tv/browser/",
       "image": "https://example.com/app_icon.png"
     }
   ]
