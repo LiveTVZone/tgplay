@@ -1,14 +1,5 @@
 {
   "menu": [
-    {
-      "label": "📺 Հայկական ալիքներ",
-      "action": "content:https://livetvzone.github.io/tgplay/channels.json",
-      "image": "msx-white-soft:live-tv"
-    },
-    {
-      "label": "🌐 M3U-IP Browser",
-      "action": "link:https://m3u-ip.tv/browser/",
-      "image": "msx-white-soft:web"
-    }
+    {"label": "📺 TV", "action": "video:https://s70378.cdn.ngenix.net/shant/1/index.m3u8"}
   ]
 }
