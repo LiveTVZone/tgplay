@@ -1,9 +1,4 @@
 {
-  "menu": [
-    {
-      "label": "🌐 M3U-IP Browser",
-      "action": "link:replace:https://m3u-ip.tv/browser/",
-      "image": "msx-white-soft:web"
-    }
-  ]
+  "label": "Мой канал",
+  "action": "video:https://прямая-ссылка.m3u8"
 }
