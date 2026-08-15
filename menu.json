@@ -1,5 +1,4 @@
 {
-  "menu": [
-    {"label": "📺 TV", "action": "video:https://s70378.cdn.ngenix.net/shant/1/index.m3u8"}
-  ]
+  "label": "Мой канал",
+  "action": "video:https://s70378.cdn.ngenix.net/hybrid_rest_new/1/index.m3u8"
 }
