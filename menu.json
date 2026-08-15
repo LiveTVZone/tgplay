@@ -1,4 +1,9 @@
 {
-  "label": "Мой канал",
-  "action": "video:https://s70378.cdn.ngenix.net/hybrid_rest_new/1/index.m3u8"
+  "menu": [
+    {"label": "Shant", "action": "video:https://s70378.cdn.ngenix.net/shant/1/index.m3u8"},
+    {"label": "Shant Premium", "action": "video:https://s70378.cdn.ngenix.net/shant_premium/1/index.m3u8"},
+    {"label": "Armenia TV", "action": "video:https://s70378.cdn.ngenix.net/armenia_tv_hd/4/index.m3u8"},
+    {"label": "ATV", "action": "video:https://s70378.cdn.ngenix.net/atv/1/index.m3u8"},
+    {"label": "My Channel", "action": "video:https://s70378.cdn.ngenix.net/hybrid_rest_new/1/index.m3u8"}
+  ]
 }
