@@ -1,0 +1,17 @@
+{
+  "name": "Мой Плейлист",
+  "version": "1.0.0",
+  "parameter": "menu:default",
+  "items": [
+    {
+      "title": "HD Резка",
+      "action": "video:https://example.com/stream.m3u8",
+      "icon": "https://example.com/icon.png"
+    },
+    {
+      "title": "Открыть сайт / Веб-приложение",
+      "action": "link:https://example.com/app",
+      "icon": "https://example.com/app_icon.png"
+    }
+  ]
+}
