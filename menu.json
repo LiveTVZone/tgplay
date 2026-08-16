@@ -1,13 +1,14 @@
- {
-      "focus": true,
+  {
       "selection": {
         "important": true,
         "action": "update:content:underlay:text",
         "data": {
-          "headline": "DRM-play",
-          "text": "IPTV плеер с поддержкой плейлистов в формате m3u, m3u8, stalker-portal, медиатеки. Тестовый плейлист для ознакомления с функциями плеера."
+          "headline": "RELAX",
+          "text": "Подборки IPTV каналов из интернета в открытом доступе.{br} Работают так как есть. Работают пока работают."
         }
       },
-      "image": "https://wals09.github.io/msx/logon/drm.png",
-      "action": "link:https://m3u-ip.tv/browser/"
-    }
+      "image": "https://wals09.github.io/msx/logon/relax.png",
+      "action": "content: https://wals09.github.io/msx/bonus/relax.json",
+      "properties": {
+        "trigger:back": "player:stop"
+      }
