@@ -4,7 +4,7 @@
     {
       "icon": "movie",
       "label": "📺 IPTV",
-      "data": "https://msx.benzac.de/services/m3u.php?type=video&mode=extended&url=http://armsmart.nl:8080/get.php?username=freetvportal&password=freetvportal&type=m3u_plus"
+      "data": "https://msx.benzac.de/services/m3u.php?type=video&mode=extended&url=https://dl.dropbox.com/scl/fi/liklvlsp3dutafyz3r3o8/freetvportal_plus.m3u?rlkey=71dgv0nn23hselo7lfo5pqlap"
     }
   ]
 }
