@@ -6,18 +6,6 @@
     {
       "label": "📺 IPTV",
       "data": "https://livetvzone.github.io/tgplay/iptv.json"
-    },
-    {
-      "label": "📅 EPG",
-      "data": "https://livetvzone.github.io/tgplay/epg.json"
-    },
-    {
-      "type": "separator",
-      "label": "Настройки"
-    },
-    {
-      "type": "settings",
-      "label": "Настройки Media Station X"
     }
   ]
 }
