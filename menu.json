@@ -2,12 +2,10 @@
   "headline": "LiveTV Zone",
   "items": [
     {
+      "type": "button",
       "title": "📺 IPTV",
-      "action": "content:https://livetvzone.github.io/tgplay/iptv.json"
-    },
-    {
-      "title": "📅 EPG",
-      "action": "content:https://livetvzone.github.io/tgplay/epg.json"
+      "action": "menu",
+      "data": "menu:https://livetvzone.github.io/tgplay/iptv.json"
     }
   ]
 }
