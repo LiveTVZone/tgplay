@@ -1,11 +1,10 @@
 {
-  "name": "LiveTV Zone",
-  "version": "1.0.0",
   "headline": "LiveTV Zone",
   "menu": [
     {
+      "icon": "movie",
       "label": "📺 IPTV",
-      "data": "https://livetvzone.github.io/tgplay/iptv.json"
+      "data": "https://msx.benzac.de/services/m3u.php?type=video&mode=extended&url=https://loganettv.github.io/playlists/all.m3u"
     }
   ]
 }
