@@ -4,7 +4,7 @@
     {
       "icon": "movie",
       "label": "📺 IPTV",
-      "data": "https://raw.githubusercontent.com/LiveTVZone/tgplay/refs/heads/main/playlist.json"
+      "data": "https://loganettv.github.io/playlists/all.m3u"
     }
   ]
 }
