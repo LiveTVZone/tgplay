@@ -1,11 +1,23 @@
 {
+  "name": "LiveTV Zone",
+  "version": "1.0.0",
   "headline": "LiveTV Zone",
-  "items": [
+  "menu": [
     {
-      "type": "button",
-      "title": "📺 IPTV",
-      "action": "menu",
-      "data": "menu:https://livetvzone.github.io/tgplay/iptv.json"
+      "label": "📺 IPTV",
+      "data": "https://livetvzone.github.io/tgplay/iptv.json"
+    },
+    {
+      "label": "📅 EPG",
+      "data": "https://livetvzone.github.io/tgplay/epg.json"
+    },
+    {
+      "type": "separator",
+      "label": "Настройки"
+    },
+    {
+      "type": "settings",
+      "label": "Настройки Media Station X"
     }
   ]
 }
