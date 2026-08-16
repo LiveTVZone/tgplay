@@ -4,7 +4,7 @@
     {
       "icon": "movie",
       "label": "📺 IPTV",
-      "data": "https://loganettv.github.io/playlists/all.m3u"
+      "data": "http://armsmart.nl:8080/get.php?username=freetvportal&password=freetvportal&type=m3u_plus"
     }
   ]
 }
