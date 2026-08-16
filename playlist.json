@@ -1,0 +1,2032 @@
+{
+  "name": "Armenian IPTV",
+  "version": "1.0",
+  "menu": [
+    {
+      "title": "Երաժշտական Musical",
+      "items": [
+        {
+          "title": "BRIDGE Русский Хит",
+          "logo": "https://ttvrun.one/uploads/sFzDsKT5p1bgo7L0thRpNxUMLYJMf7.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/180.ts",
+          "type": "ts"
+        },
+        {
+          "title": "BRIDGE",
+          "logo": "http://armsmart.nl/armsmart/logos/ARM-kanal-logos/BRIDGE.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/181.ts",
+          "type": "ts"
+        },
+        {
+          "title": "ТНТ MUSIC",
+          "logo": "http://ttv.teamcloud.am/static/channel-data/channelicon/193.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/182.ts",
+          "type": "ts"
+        },
+        {
+          "title": "МУЗ-ТВ",
+          "logo": "http://ttv.teamcloud.am/static/channel-data/channelicon/192.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/183.ts",
+          "type": "ts"
+        },
+        {
+          "title": "МУЗЫКА LIVE",
+          "logo": "http://ttv.teamcloud.am/static/channel-data/channelicon/201.png?t=17520036219",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/1442.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Шансон ТВ",
+          "logo": "http://ttv.teamcloud.am/static/channel-data/channelicon/203.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/1443.ts",
+          "type": "ts"
+        },
+        {
+          "title": "BRIDGE CLASSIC",
+          "logo": "https://fast.ntvplus.tv/files/image/88/39/44/-channel!njj.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/1444.ts",
+          "type": "ts"
+        },
+        {
+          "title": "BridgeTV_Delux",
+          "logo": "https://fast.ntvplus.tv/files/image/88/63/96/-channel!189.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/1446.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Tunebox",
+          "logo": "http://www.tmsimg.com/assets/s83455_ll_h3_ab.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/1447.ts",
+          "type": "ts"
+        },
+        {
+          "title": "BRIDGE HITS",
+          "logo": "http://ttv.teamcloud.am/static/channel-data/channelicon/199.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/1448.ts",
+          "type": "ts"
+        },
+        {
+          "title": "М1",
+          "logo": "https://vidmind-blizzard-images.s3.amazonaws.com/e6bb2d13-7c95-4c1c-812b-b530f3799fe2.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/1546.ts",
+          "type": "ts"
+        },
+        {
+          "title": "М2",
+          "logo": "https://vidmind-blizzard-images.s3.amazonaws.com/3bbbc2e2-1f4b-4ca6-ad6a-6224421c03e2.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/1547.ts",
+          "type": "ts"
+        },
+        {
+          "title": "НАШЕ Music HD",
+          "logo": "https://vidmind-blizzard-images.s3.amazonaws.com/669d6452-00ce-4f30-988b-5cd8fd6e6bab.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/1548.ts",
+          "type": "ts"
+        },
+        {
+          "title": "НАШЕ Рэтро HD",
+          "logo": "https://vidmind-blizzard-images.s3.amazonaws.com/853ec0b6-4261-4bb3-aeda-5ce7e3933d76.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/1550.ts",
+          "type": "ts"
+        },
+        {
+          "title": "InRating HD",
+          "logo": "https://vidmind-blizzard-images.s3.amazonaws.com/da5c918c-3c4c-4599-a04a-67741b98a140.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/1551.ts",
+          "type": "ts"
+        },
+        {
+          "title": "4ever Music HD",
+          "logo": "https://vidmind-blizzard-images.s3.amazonaws.com/f5df7045-f63d-4264-afc3-1357903b4ddc.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/1552.ts",
+          "type": "ts"
+        },
+        {
+          "title": "EU Music HD",
+          "logo": "https://vidmind-blizzard-images.s3.amazonaws.com/75ef265d-be48-4b7d-ab92-47e4e4c527bf.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/1553.ts",
+          "type": "ts"
+        },
+        {
+          "title": "MTV 80s",
+          "logo": "https://vidmind-blizzard-images.s3.amazonaws.com/8b3d9aa8-d796-4fdd-9917-6267d9e97f81.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/1554.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Viva Latino",
+          "logo": "http://www.tmsimg.com/assets/s76116_ll_h3_aa.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/1555.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Bridge TV ФРЭШ",
+          "logo": "http://ttv.teamcloud.am/static/channel-data/channelicon/200.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/7429.ts",
+          "type": "ts"
+        },
+        {
+          "title": "BridgeTV Шлягер",
+          "logo": "http://ttv.teamcloud.am/static/channel-data/channelicon/198.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/8080.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Mezzo",
+          "logo": "http://ttv.teamcloud.am/static/channel-data/channelicon/189.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/8081.ts",
+          "type": "ts"
+        }
+      ]
+    },
+    {
+      "title": "Հայկական Armenian",
+      "items": [
+        {
+          "title": "Առաջին Ալիք",
+          "logo": "https://live.1tv.am/p/img/channel/am1abr-vod-am.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/1.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Առաջինի միջազգային ալիք",
+          "logo": "https://live.1tv.am/p/img/channel/am3abr-vod-am.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/1399.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Առաջինի լրատվական ալիք",
+          "logo": "https://live.1tv.am/p/img/channel/am2abr-vod-am.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/1400.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Նոր Հայաստան",
+          "logo": "https://epg.iptvx.one/picons/nor-hayastan.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/3.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Free News",
+          "logo": "http://armsmart.nl/armsmart/logos/ARM-kanal-logos/Free-News.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/4.ts",
+          "type": "ts"
+        },
+        {
+          "title": "EUROMEDIA 24",
+          "logo": "https://yt3.googleusercontent.com/-FNHhoxGRkUq0bUgowIU3P3n8geIkrP3z-c9e8jumyvlNUHtkgRBho-zGmeYPYx_pHbk2Bl_mA=s160-c-k-c0x00ffffff-no-rj",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/12552.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Կոտայք TV",
+          "logo": "http://armsmart.nl/armsmart/logos/ARM-kanal-logos/KOTAYQ.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/8.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Ցայգ TV",
+          "logo": "http://armsmart.nl:8080/images/eSUPJUlYdFnY-VC6W79SRHSy6HTSHCSBTs-ETRmc3BCxhpPXOXmvqwZhh0feQ-BarIfI1bpPXoUyCaweaBpe6A.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/9.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Ֆորտունա TV",
+          "logo": "http://armsmart.nl:8080/images/eSUPJUlYdFnY-VC6W79SRHSy6HTSHCSBTs-ETRmc3BCxhpPXOXmvqwZhh0feQ-BaYiignQxl38G9BOMbsAzP6w.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/10.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Դելտա TV",
+          "logo": "http://armsmart.nl/armsmart/logos/ARM-kanal-logos/Delta-TV.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/11.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Նոյյան Տապան",
+          "logo": "http://armsmart.nl/armsmart/logos/ARM-kanal-logos/noyan-tapan.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/12.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Բուն TV",
+          "logo": "http://armsmart.nl/armsmart/logos/ARM-kanal-logos/BunTV.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/14.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Սյունիք TV",
+          "logo": "https://images.iptv.rt.ru/imo/transform/profile=channelposter176x100/images/cl9in4jir4sqiatb181g.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/15.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Լոռի TV",
+          "logo": "https://loritv.am/bundles/app/img/smal_logo.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/197.ts",
+          "type": "ts"
+        },
+        {
+          "title": "ARTN",
+          "logo": "http://armsmart.nl/armsmart/logos/ARM-kanal-logos/ARTN.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/16.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Շանթ",
+          "logo": "https://cdn.staff.am/staff.am/upload/4/6/4/3/4643b5b7.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/17.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Շանթ Գյումրի",
+          "logo": "https://www.shantdigitaltv.com/wp-content/uploads/2021/01/shant_gyumri.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/18.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Շանթ Պրեմիում",
+          "logo": "https://www.shantdigitaltv.com/wp-content/uploads/2021/07/ShantPremiumHD-1.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/19.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Շանթ Սերիալ",
+          "logo": "https://www.shantdigitaltv.com/wp-content/uploads/2021/07/ShantSerial_HD.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/20.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Շանթ Կիդս",
+          "logo": "https://www.shantdigitaltv.com/images/Shantkids.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/21.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Շանթ Ֆիլմ",
+          "logo": "https://www.shantdigitaltv.com/wp-content/uploads/2022/02/Shant-Film.jpg",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/12501.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Շանթ Կոմեդիա",
+          "logo": "http://armsmart.nl:8080/images/QvA6gbemGa01RMPEzDWXgs1konxsKfiV7I4CFWIYpGTLIw8HGSp512M1GbKaSek9ZDkhhvJQ3SeCpIiWtWgBGiGJW7gKVbIbPVGMgMLcu0Q.jpg",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/12502.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Շանթ Մյուսիկ",
+          "logo": "http://armsmart.nl:8080/images/iLYP2Ea9fjyXYJe_KPTcQgn7pHUHTPyevn4I5aeZiIYoKFQ3_uPPDgujjuMiZXL1GzzDbNoa-_xalxis9467MxiPyBLjQcKF0ajEGGjj0VA.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/12503.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Song TV",
+          "logo": "http://armsmart.nl/armsmart/logos/ARM-kanal-logos/Song_TV.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/22.ts",
+          "type": "ts"
+        },
+        {
+          "title": "ATV",
+          "logo": "http://ttv.teamcloud.am/static/channel-data/channelicon/006.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/23.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Բազմոց TV",
+          "logo": "http://ttv.teamcloud.am/static/channel-data/channelicon/056.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/24.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Կինոման TV",
+          "logo": "http://ttv.teamcloud.am/static/channel-data/channelicon/055.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/25.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Մուզզոն TV",
+          "logo": "http://ttv.teamcloud.am/static/channel-data/channelicon/191.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/26.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Թավա TV",
+          "logo": "http://ttv.teamcloud.am/static/channel-data/channelicon/138.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/27.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Հայ TV",
+          "logo": "http://ttv.teamcloud.am/static/channel-data/channelicon/190.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/28.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Խաղալիք TV",
+          "logo": "http://ttv.teamcloud.am/static/channel-data/channelicon/092.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/29.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Ֆիթնես",
+          "logo": "http://ttv.teamcloud.am/static/channel-data/channelicon/150.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/30.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Լայֆհաք",
+          "logo": "http://armsmart.nl/armsmart/logos/ARM-kanal-logos/ATV-Lifehack-HD.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/31.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Armount tv",
+          "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjtI2_N0J0JOrKiiqU7NZxvHinP-hOCzeQYA&s",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/184.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Արմենիա TV",
+          "logo": "http://ttv.teamcloud.am/static/channel-data/channelicon/004.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/33.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Արմենիա Պրեմիում",
+          "logo": "http://ttv.teamcloud.am/static/channel-data/channelicon/305.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/38.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Armenia TV Komedia",
+          "logo": "http://armsmart.nl/armsmart/logos/ARM-kanal-logos/ARMENIA_TV-KOMEDY_TV.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/7384.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Սինեման",
+          "logo": "http://armsmart.nl/armsmart/logos/ARM-kanal-logos/ARMENIA-Sineman.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/7385.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Հայ կինո",
+          "logo": "http://ttv.teamcloud.am/static/channel-data/channelicon/304.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/35.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Ջան TV",
+          "logo": "http://armsmart.nl/armsmart/logos/ARM-kanal-logos/ARMENIA_TV-GAN_TV.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/36.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Տունտունիկ",
+          "logo": "http://armsmart.nl/armsmart/logos/ARM-kanal-logos/ARMENIA_TV-TUN_TUNIK.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/7383.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Գեղամա TV",
+          "logo": "https://yt3.googleusercontent.com/Dm3BQ1panePkpEIIBd3i2zVSPVOXtxZjlO3t_3_bbo3RWFBAjdV65mDi4bR5fm_KvOPW_YG8wg=s900-c-k-c0x00ffffff-no-rj",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/1744.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Տավուշ TV",
+          "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKyVkQpwRaRgI9Zw3dnZgQqvpRnPZz82i5ww&s",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/1782.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Arma TV",
+          "logo": "http://armatv.am/assets/images/logo.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/7393.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Ararat TV",
+          "logo": "https://scontent.frtm1-2.fna.fbcdn.net/v/t39.30808-6/258525500_103103478871239_109991190783697344_n.png?_nc_cat=103&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=eeer-VJn-QQQ7kNvwFyuIsd&_nc_oc=Adnb1fQYxNd_OAdHslM_rPK7VNU5pXvhGQYIZs74cdSzC-DhaRMbBe4il4up6-hVPaI&_nc_zt=23&_nc_ht=scontent.frtm1-2.fna&_nc_gid=XC_MnzcjXYZjkwQ5C_E3PQ&oh=00_AfR8H-kJc-ncuLqBB07R-Apxqz5qAVeYX9a-tpoPLmZBXg&oe=68815131",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/7394.ts",
+          "type": "ts"
+        },
+        {
+          "title": "AABC TV",
+          "logo": "https://yt3.googleusercontent.com/OYRIcMPYC9oI4YzHGytFhlfbdj6Zf_w4pAdWNn19lO-RgA-TtkPMieYKZLJsTg524lw3ZssCBZU=s160-c-k-c0x00ffffff-no-rj",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/7421.ts",
+          "type": "ts"
+        },
+        {
+          "title": "\"Shoghakat TV\"",
+          "logo": "http://armsmart.nl/armsmart/logos/ARM-kanal-logos/Shoghakat-TV.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/40.ts",
+          "type": "ts"
+        },
+        {
+          "title": "21 TV",
+          "logo": "http://armsmart.nl/armsmart/logos/ARM-kanal-logos/DAR_21.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/41.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Hybrid Film",
+          "logo": "http://armsmart.nl:8080/images/GR08sSK1u1lRH-uQtMVji3CBF7S5opOG5Vqyp9Wcfk5j1R_uCpUhnxfjcN3VavR1KEmrV8fg0Yc1ycGIDqXtj1pfE0EqK_MGs4TQNw5wlJSCk8W-k8B6KUFGAiIDtVZK0BWuBoQKOpYypIyxvGCwKg.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/1461.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Hybrid EDU",
+          "logo": "http://armsmart.nl:8080/images/GR08sSK1u1lRH-uQtMVji3CBF7S5opOG5Vqyp9Wcfk5j1R_uCpUhnxfjcN3VavR1KEmrV8fg0Yc1ycGIDqXtj1pfE0EqK_MGs4TQNw5wlJThyykC6FjEqb69hQAfqkc9l5AqzqKf3_UrIdnyYOLcHw.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/1462.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Hybrid Rest",
+          "logo": "http://armsmart.nl:8080/images/GR08sSK1u1lRH-uQtMVji3CBF7S5opOG5Vqyp9Wcfk5j1R_uCpUhnxfjcN3VavR1KEmrV8fg0Yc1ycGIDqXtj1pfE0EqK_MGs4TQNw5wlJRviUa6WlPuZpKwOsMikwsnovag5ZtYTrnc1IbEo0v2rA.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/1463.ts",
+          "type": "ts"
+        },
+        {
+          "title": "ABN",
+          "logo": "http://ttv.teamcloud.am/static/channel-data/channelicon/033.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/7426.ts",
+          "type": "ts"
+        },
+        {
+          "title": "High Vision",
+          "logo": "https://www.highvision.tv/wp-content/uploads/2018/11/0001.jpg",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/12457.ts",
+          "type": "ts"
+        },
+        {
+          "title": "ALPHA_NEWS",
+          "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1AFuv__uL_ZHKB0-NwSW28jgWeCWIAr3U9w&s",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/12483.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Delta Travel",
+          "logo": null,
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/12702.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Delta Musik",
+          "logo": "https://i1.sndcdn.com/avatars-img3zQuXbZRkc4jk-IP36gw-t1080x1080.jpg",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/12703.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Կենտրոն",
+          "logo": "http://armsmart.nl:8080/images/fba-hNBf2oMCg6QvR2iBSTAJh5dmDKLmkrXeJY43ifU5AqsMCfVgjpG27g1RYie5EgBjXVkXgC7v1HnLTJP7io_xVtzRnR-x06QsXyAXIGI.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/30922.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Հինգերորդ ալիք",
+          "logo": "http://armsmart.nl:8080/images/fba-hNBf2oMCg6QvR2iBSTAJh5dmDKLmkrXeJY43ifU5AqsMCfVgjpG27g1RYie5y2FVhjZsIAtZrigzlFPZdKjeEZg0UCTc-HtVl2frt8M.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/30923.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Հ2",
+          "logo": "https://ttv2.teamcloud.am/static/channel-data/channelicon/031.png?t=17520036219",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/30924.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Երկիր Մեդիա",
+          "logo": "http://armsmart.nl:8080/images/fba-hNBf2oMCg6QvR2iBSTAJh5dmDKLmkrXeJY43ifU5AqsMCfVgjpG27g1RYie54ZLWWoCgXKR-LUu6OkgR4nG_vOhaTxx82Ws6TT6v1sg.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/30925.ts",
+          "type": "ts"
+        },
+        {
+          "title": "5 plus",
+          "logo": null,
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/30926.ts",
+          "type": "ts"
+        }
+      ]
+    },
+    {
+      "title": "Նորություններ News",
+      "items": [
+        {
+          "title": "Euronews",
+          "logo": "http://armsmart.nl:8080/images/rNZeZB7Z1mQMUcFoNoCVivm0-KWoMComqHUk5pZs2u4T0tXi1I1vxX8-UwrcGj06.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/7.ts",
+          "type": "ts"
+        },
+        {
+          "title": "FREEДОМ",
+          "logo": "https://vidmind-blizzard-images.s3.amazonaws.com/3ce1dc2e-1e14-426c-b55c-218e38bcdba1.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/1534.ts",
+          "type": "ts"
+        },
+        {
+          "title": "BridgeTV Шлягер",
+          "logo": "http://ttv.teamcloud.am/static/channel-data/channelicon/198.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/1445.ts",
+          "type": "ts"
+        },
+        {
+          "title": "CNN",
+          "logo": "http://ttv.teamcloud.am/static/channel-data/channelicon/167.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/7432.ts",
+          "type": "ts"
+        },
+        {
+          "title": "NewsMax",
+          "logo": "http://ttv.teamcloud.am/static/channel-data/channelicon/169.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/7434.ts",
+          "type": "ts"
+        },
+        {
+          "title": "DW English",
+          "logo": "http://ttv.teamcloud.am/static/channel-data/channelicon/173.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/7435.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Настоящее Время",
+          "logo": "http://ttv.teamcloud.am/static/channel-data/channelicon/171.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/8082.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Известия",
+          "logo": "http://ttv.teamcloud.am/static/channel-data/channelicon/170.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/8083.ts",
+          "type": "ts"
+        }
+      ]
+    },
+    {
+      "title": "Ուսումնական Educational",
+      "items": [
+        {
+          "title": "Da Vinci",
+          "logo": "http://armsmart.nl/armsmart/logos/ARM-kanal-logos/DaVinci.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/107.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Docu Box HD",
+          "logo": "http://ttv.teamcloud.am/static/channel-data/channelicon/120.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/108.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Приключения",
+          "logo": "http://armsmart.nl/armsmart/logos/ARM-kanal-logos/Prikluchniya.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/109.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Телепутешествия",
+          "logo": "http://armsmart.nl/armsmart/logos/ARM-kanal-logos/Teleputeshestviya.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/110.ts",
+          "type": "ts"
+        },
+        {
+          "title": "RTG HD",
+          "logo": "http://armsmart.nl/armsmart/logos/ARM-kanal-logos/RTG_HD.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/111.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Travel channel",
+          "logo": "http://ttv.teamcloud.am/static/channel-data/channelicon/134.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/112.ts",
+          "type": "ts"
+        },
+        {
+          "title": "ZOO",
+          "logo": "http://armsmart.nl/armsmart/logos/ARM-kanal-logos/ZOO.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/113.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Food Network HD",
+          "logo": "http://armsmart.nl/armsmart/logos/ARM-kanal-logos/Food-Network-HD.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/114.ts",
+          "type": "ts"
+        },
+        {
+          "title": "DTX",
+          "logo": "http://armsmart.nl/armsmart/logos/ARM-kanal-logos/DTX.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/115.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Драйв",
+          "logo": "http://ttv.teamcloud.am/static/channel-data/channelicon/217.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/116.ts",
+          "type": "ts"
+        },
+        {
+          "title": "RT Doc HD",
+          "logo": "http://armsmart.nl/armsmart/logos/ARM-kanal-logos/RT_Doc_HD.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/117.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Тонус",
+          "logo": "http://armsmart.nl/armsmart/logos/ARM-kanal-logos/TONUS.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/118.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Вопросы и ответы",
+          "logo": "https://ttvrun.one/uploads/ppbzLHHr7B9wvHHw44TgucKnl69q74.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/119.ts",
+          "type": "ts"
+        },
+        {
+          "title": "В мире животных",
+          "logo": "https://ttvrun.one/uploads/NefS7NwexRum5zxjT2EFFBgy7pEp7T.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/120.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Histor",
+          "logo": "http://armsmart.nl/armsmart/logos/ARM-kanal-logos/History_HD.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/121.ts",
+          "type": "ts"
+        },
+        {
+          "title": "History HD 2",
+          "logo": "http://armsmart.nl/armsmart/logos/ARM-kanal-logos/History_HD_2.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/122.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Загородная жизнь",
+          "logo": "http://armsmart.nl/armsmart/logos/ARM-kanal-logos/zagrdni-zizn.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/123.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Animal Planet",
+          "logo": "http://armsmart.nl/armsmart/logos/ARM-kanal-logos/Animal-Planet-HD.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/125.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Nat Geo Wild HD",
+          "logo": "http://armsmart.nl:8080/images/eSUPJUlYdFnY-VC6W79SRHSy6HTSHCSBTs-ETRmc3BCxhpPXOXmvqwZhh0feQ-BadzrdbdShGhNa1YNZ4lU2i233u76Z38Hmi08Ar6Vm6gA.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/126.ts",
+          "type": "ts"
+        },
+        {
+          "title": "National Geographic HD",
+          "logo": "http://armsmart.nl:8080/images/Paq3aLcnBPw3KBUERwMOAW5mxw786GADdb5oAfJettaZxXQLCTjuFi2-_wLG2AxklAR1Ka0PRXAXPvp-Xu5zZw.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/127.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Discovery",
+          "logo": "http://armsmart.nl/armsmart/logos/ARM-kanal-logos/Discovery.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/128.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Investigation Discovery",
+          "logo": "http://armsmart.nl/armsmart/logos/ARM-kanal-logos/Investigation-Discovery.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/129.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Viju Nature",
+          "logo": "http://ttv.teamcloud.am/static/channel-data/channelicon/113.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/132.ts",
+          "type": "ts"
+        },
+        {
+          "title": "viju History",
+          "logo": "https://rnnxdki1nv.a.trbcdn.net/viasat/production/tvchannels/212702d6-ccb5-43a9-807b-a36b5d022987/backgrounds/lhiql70cavw2evvtl40xhuse3q97?w=800",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/133.ts",
+          "type": "ts"
+        },
+        {
+          "title": "viju+ Planet",
+          "logo": "https://fast.ntvplus.tv/files/image/79/84/42/-channel!k6r.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/1431.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Viju Explore",
+          "logo": "http://ttv.teamcloud.am/static/channel-data/channelicon/115.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/134.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Кухня ТВ",
+          "logo": "http://armsmart.nl/armsmart/logos/ARM-kanal-logos/kuxnya.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/135.ts",
+          "type": "ts"
+        },
+        {
+          "title": "КВН ТВ",
+          "logo": "http://armsmart.nl/armsmart/logos/ARM-kanal-logos/kvn.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/136.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Время",
+          "logo": "http://armsmart.nl/armsmart/logos/ARM-kanal-logos/vremya.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/137.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Кто есть кто",
+          "logo": "http://armsmart.nl/armsmart/logos/ARM-kanal-logos/kto-est-kto.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/138.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Охотник и рыболов",
+          "logo": "http://armsmart.nl/armsmart/logos/ARM-kanal-logos/oxota.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/139.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Тайны Галактики",
+          "logo": "https://fast.ntvplus.tv/files/image/88/48/72/-channel!msx.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/1471.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Глазами Туриста HD",
+          "logo": "https://fast.ntvplus.tv/files/image/91/78/11/-channel!k08.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/1474.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Travel+Adventure",
+          "logo": "https://fast.ntvplus.tv/files/image/01/18/71/-channel!lo1.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/1475.ts",
+          "type": "ts"
+        },
+        {
+          "title": "The Explorers HD",
+          "logo": "https://fast.ntvplus.tv/files/image/88/39/73/-channel!mqa.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/1476.ts",
+          "type": "ts"
+        },
+        {
+          "title": "ТНВ Планета",
+          "logo": "https://fast.ntvplus.tv/files/image/01/17/78/-channel!1zv.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/1568.ts",
+          "type": "ts"
+        },
+        {
+          "title": "БелРос",
+          "logo": "https://fast.ntvplus.tv/files/image/11/18/64/-channel!z8i.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/1569.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Моя стихия",
+          "logo": "https://fast.ntvplus.tv/files/image/88/39/54/-channel!wzn.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/1571.ts",
+          "type": "ts"
+        },
+        {
+          "title": "365 дней ТВ",
+          "logo": "https://fast.ntvplus.tv/files/image/88/92/32/-channel!zsq.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/1572.ts",
+          "type": "ts"
+        },
+        {
+          "title": "TLC",
+          "logo": "http://armsmart.nl/armsmart/logos/ARM-kanal-logos/TLC.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/140.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Fashion TV",
+          "logo": "http://ttv.teamcloud.am/static/channel-data/channelicon/160.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/141.ts",
+          "type": "ts"
+        },
+        {
+          "title": "НАНО HD",
+          "logo": "http://armsmart.nl/armsmart/logos/ARM-kanal-logos/nano-hd.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/142.ts",
+          "type": "ts"
+        },
+        {
+          "title": "HDL",
+          "logo": "http://armsmart.nl/armsmart/logos/ARM-kanal-logos/HDL.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/143.ts",
+          "type": "ts"
+        },
+        {
+          "title": "FashionBox",
+          "logo": "http://ttv.teamcloud.am/static/channel-data/channelicon/159.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/145.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Авто плюс",
+          "logo": "http://ttv.teamcloud.am/static/channel-data/channelicon/214.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/154.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Наука",
+          "logo": "https://fast.ntvplus.tv/files/image/88/91/86/-channel!g7l.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/1573.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Домашние животные",
+          "logo": "https://fast.ntvplus.tv/files/image/94/50/80/-channel!9rk.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/1574.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Museum HD",
+          "logo": "http://ttv.teamcloud.am/static/channel-data/channelicon/111.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/7427.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Точка РФ",
+          "logo": "http://ttv.teamcloud.am/static/channel-data/channelicon/112.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/7428.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Моя Планета",
+          "logo": "http://ttv.teamcloud.am/static/channel-data/channelicon/104.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/7453.ts",
+          "type": "ts"
+        },
+        {
+          "title": "History Россия",
+          "logo": "http://ttv.teamcloud.am/static/channel-data/channelicon/116.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/7454.ts",
+          "type": "ts"
+        },
+        {
+          "title": "История ТВ",
+          "logo": "http://ttv.teamcloud.am/static/channel-data/channelicon/119.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/7455.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Космический",
+          "logo": "http://ttv.teamcloud.am/static/channel-data/channelicon/126.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/7456.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Инсайт ТВ",
+          "logo": "http://ttv.teamcloud.am/static/channel-data/channelicon/135.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/7458.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Техно 24",
+          "logo": "http://ttv.teamcloud.am/static/channel-data/channelicon/216.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/8078.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Живая планета",
+          "logo": "http://ttv.teamcloud.am/static/channel-data/channelicon/211.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/8079.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Здоровое ТВ",
+          "logo": "http://ttv.teamcloud.am/static/channel-data/channelicon/152.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/8085.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Живи",
+          "logo": "http://ttv.teamcloud.am/static/channel-data/channelicon/149.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/8086.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Рыболов",
+          "logo": "http://ttv.teamcloud.am/static/channel-data/channelicon/148.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/8087.ts",
+          "type": "ts"
+        },
+        {
+          "title": "ZooПарк",
+          "logo": "https://www.sostav.ru/app/public/images/news/2013/08/05/logo_zoo_telekanal.png?rand=0.904662050306797",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/8088.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Охота и рыбалка",
+          "logo": "http://ttv.teamcloud.am/static/channel-data/channelicon/137.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/8089.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Океан HD",
+          "logo": "https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10299/logo_256_1722581023.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/12484.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Бобёр ТВ",
+          "logo": "https://www.cableman.ru/sites/default/files/bober.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/12488.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Оружие ТВ",
+          "logo": "https://www.cableman.ru/sites/default/files/oruzhie.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/12489.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Дикая рыбалка HD",
+          "logo": "https://epg.pw/media/images/epg/2024/06/08/20240608033040043510_23.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/12490.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Дикая охота HD",
+          "logo": "http://armsmart.nl:8080/images/aD13uF13ShK5g1wmCmnXe_XhxtJPudo39unR7JrAQQhgJpUKNo1Xk0JbaIWLzLYhoQNYG2lj4CuGwWueeeiG1A.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/12491.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Дикий",
+          "logo": "https://dikoe.tv/images/logo_home_01.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/12492.ts",
+          "type": "ts"
+        },
+        {
+          "title": "успех",
+          "logo": "https://yt3.googleusercontent.com/ytc/AIdro_m3HA5aWZkB3JD9ZS-9FGBOzKKNmx02NKfJ9j-gF3p8dA=s160-c-k-c0x00ffffff-no-rj",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/12494.ts",
+          "type": "ts"
+        },
+        {
+          "title": "TV BRICS",
+          "logo": "https://fast.ntvplus.tv/files/image/10/46/876/-channel!el1.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/12692.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Аппетитный",
+          "logo": "https://fast.ntvplus.tv/files/image/88/57/68/-channel!ro4.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/12693.ts",
+          "type": "ts"
+        },
+        {
+          "title": "ЕГЭ",
+          "logo": "https://fast.ntvplus.tv/files/image/88/57/68/-channel!ro4.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/12694.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Квадро ТВ HD",
+          "logo": "https://fast.ntvplus.tv/files/image/88/49/61/-channel!2cu.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/12695.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Конгресс ТВ",
+          "logo": "https://fast.ntvplus.tv/files/image/96/57/65/-channel!ut4.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/12696.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Лапки Live",
+          "logo": "https://fast.ntvplus.tv/files/image/88/39/39/-channel!kvw.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/12697.ts",
+          "type": "ts"
+        },
+        {
+          "title": "МЫ",
+          "logo": "https://fast.ntvplus.tv/files/image/88/99/72/-channel!gs4.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/12698.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Продвижение",
+          "logo": "https://fast.ntvplus.tv/files/image/88/61/58/-channel!e8e.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/12700.ts",
+          "type": "ts"
+        }
+      ]
+    },
+    {
+      "title": "Ռուսական Russian",
+      "items": [
+        {
+          "title": "Первый канал",
+          "logo": "http://armsmart.nl/armsmart/logos/ARM-kanal-logos/pervi-kanal.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/44.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Россия 1 HD",
+          "logo": "http://armsmart.nl/armsmart/logos/ARM-kanal-logos/Russia_1.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/45.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Россия 24",
+          "logo": "http://armsmart.nl/armsmart/logos/ARM-kanal-logos/RUSSIA_24.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/46.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Россия К",
+          "logo": "https://ttvrun.one/uploads/n23xSr8lEDWUHgsGEL3XEAkdEpyDM4.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/1377.ts",
+          "type": "ts"
+        },
+        {
+          "title": "НТВ Мир",
+          "logo": "http://armsmart.nl/armsmart/logos/ARM-kanal-logos/NTV_MIR.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/47.ts",
+          "type": "ts"
+        },
+        {
+          "title": "НТВ Право",
+          "logo": "http://armsmart.nl/armsmart/logos/ARM-kanal-logos/ntv-pravo.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/48.ts",
+          "type": "ts"
+        },
+        {
+          "title": "НТВ Стиль",
+          "logo": "http://armsmart.nl/armsmart/logos/ARM-kanal-logos/ntv-stil.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/49.ts",
+          "type": "ts"
+        },
+        {
+          "title": "НТВ Сериал",
+          "logo": "https://fast.ntvplus.tv/files/image/27/19/89/-channel!yjy.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/1433.ts",
+          "type": "ts"
+        },
+        {
+          "title": "НТВ‑ХИТ",
+          "logo": "https://fast.ntvplus.tv/files/image/88/57/89/-channel!bhk.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/1434.ts",
+          "type": "ts"
+        },
+        {
+          "title": "МИР",
+          "logo": "http://armsmart.nl/armsmart/logos/ARM-kanal-logos/mir.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/50.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Мир 24",
+          "logo": "http://armsmart.nl/armsmart/logos/ARM-kanal-logos/Mir_24.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/51.ts",
+          "type": "ts"
+        },
+        {
+          "title": "РБК",
+          "logo": "http://armsmart.nl/armsmart/logos/ARM-kanal-logos/rbk.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/52.ts",
+          "type": "ts"
+        },
+        {
+          "title": "ТВ Центр",
+          "logo": "https://ttv.teamcloud.am/static/channel-data/channelicon/043.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/53.ts",
+          "type": "ts"
+        },
+        {
+          "title": "ТВ 3",
+          "logo": "http://ttv.teamcloud.am/static/channel-data/channelicon/050.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/54.ts",
+          "type": "ts"
+        },
+        {
+          "title": "СТС International",
+          "logo": "http://ttv.teamcloud.am/static/channel-data/channelicon/040.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/55.ts",
+          "type": "ts"
+        },
+        {
+          "title": "РЕН ТВ",
+          "logo": "http://armsmart.nl/armsmart/logos/ARM-kanal-logos/ren-tv.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/57.ts",
+          "type": "ts"
+        },
+        {
+          "title": "ТНТ",
+          "logo": "http://ttv2.teamcloud.am/static/channel-data/channelicon/052.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/58.ts",
+          "type": "ts"
+        },
+        {
+          "title": "ТНТ4",
+          "logo": "http://ttv2.teamcloud.am/static/channel-data/channelicon/051.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/59.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Домашний",
+          "logo": "http://ttv.teamcloud.am/static/channel-data/channelicon/141.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/1466.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Ю",
+          "logo": "https://fast.ntvplus.tv/files/image/02/34/65/-channel!v65.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/1469.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Ностальгия",
+          "logo": "https://fast.ntvplus.tv/files/image/88/97/80/-channel!0m8.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/1470.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Перец",
+          "logo": "http://ttv.teamcloud.am/static/channel-data/channelicon/053.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/60.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Пятница",
+          "logo": "http://ttv.teamcloud.am/static/channel-data/channelicon/054.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/61.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Пятый канал",
+          "logo": "http://armsmart.nl/armsmart/logos/ARM-kanal-logos/pyati-kanal.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/62.ts",
+          "type": "ts"
+        },
+        {
+          "title": "8 канал",
+          "logo": "https://ttv.teamcloud.am/static/channel-data/channelicon/045.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/63.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Ретро",
+          "logo": "http://ttv.teamcloud.am/static/channel-data/channelicon/046.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/1567.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Okko TV",
+          "logo": "https://rskrf.ru/upload/iblock/1fc/lrzmu5vnllok7xg0657f55aeulo95k7k.jpg",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/12982.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Центральное ТВ",
+          "logo": "http://ttv.teamcloud.am/static/channel-data/channelicon/049.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/7406.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Звезда",
+          "logo": "http://ttv.teamcloud.am/static/channel-data/channelicon/047.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/7408.ts",
+          "type": "ts"
+        }
+      ]
+    },
+    {
+      "title": "Սպորտ Sports",
+      "items": [
+        {
+          "title": "Okko Спорт Футбол",
+          "logo": null,
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/12983.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Okko Спорт",
+          "logo": null,
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/12985.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Okko Прайм",
+          "logo": null,
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/12984.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Eurosport 1 HD",
+          "logo": "http://armsmart.nl/armsmart/logos/ARM-kanal-logos/europsort-1-HD.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/146.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Eurosport 2 HD",
+          "logo": "http://armsmart.nl/armsmart/logos/ARM-kanal-logos/Eurosport-2-HD.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/147.ts",
+          "type": "ts"
+        },
+        {
+          "title": "FightBox HD",
+          "logo": "http://armsmart.nl/armsmart/logos/ARM-kanal-logos/FIGHTBOX_HD.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/148.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Fast and Fun Box HD",
+          "logo": "http://www.tmsimg.com/assets/s97724_ll_h3_aa.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/149.ts",
+          "type": "ts"
+        },
+        {
+          "title": "M 1 Global",
+          "logo": "http://armsmart.nl/armsmart/logos/ARM-kanal-logos/m1.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/150.ts",
+          "type": "ts"
+        },
+        {
+          "title": "БОКС ТВ",
+          "logo": "http://armsmart.nl/armsmart/logos/ARM-kanal-logos/boks-tv.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/151.ts",
+          "type": "ts"
+        },
+        {
+          "title": "KHL",
+          "logo": "http://armsmart.nl/armsmart/logos/ARM-kanal-logos/KHL-HD.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/153.ts",
+          "type": "ts"
+        },
+        {
+          "title": "English Club",
+          "logo": "http://armsmart.nl/armsmart/logos/ARM-kanal-logos/English-Club.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/155.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Точка отрыва HD",
+          "logo": "http://armsmart.nl/armsmart/logos/ARM-kanal-logos/TochkaOtryva_HD.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/156.ts",
+          "type": "ts"
+        },
+        {
+          "title": "viju+ Sport",
+          "logo": "https://fast.ntvplus.tv/files/image/79/84/48/-channel!ycp.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/157.ts",
+          "type": "ts"
+        },
+        {
+          "title": "МАТЧ! ПЛАНЕТА",
+          "logo": "https://fast.ntvplus.tv/files/image/01/17/34/-channel!e1e.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/158.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Матч! Футбол 1",
+          "logo": "https://inwebview.com/uploads/vZLzcZJy6LW2oITy8yJJYMb7bdQotL.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/159.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Матч! Футбол 2",
+          "logo": "https://inwebview.com/uploads/3YVv4zSDartWra0QPjdSGdHtdDGicV.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/160.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Матч! Футбол 3",
+          "logo": "https://inwebview.com/uploads/Mz4rmdoVbalChPXVwPqzgBRFbhkXnb.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/161.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Матч Премьер HD",
+          "logo": "https://inwebview.com/uploads/4ijjo31TSRM8kkSO1xYTp6bKqib13c.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/162.ts",
+          "type": "ts"
+        },
+        {
+          "title": "MMA",
+          "logo": "https://inwebview.com/uploads/4BXLqJvsb7emzEj6W94ga1PwaGShib.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/166.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Setanta Sports HD",
+          "logo": "https://vidmind-blizzard-images.s3.amazonaws.com/62175f03-252b-498f-949f-4fad869d4626.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/7461.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Setanta Sports + HD",
+          "logo": "https://vidmind-blizzard-images.s3.amazonaws.com/2dd33c5f-e82b-41aa-9e84-e3feda26ec1b.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/1516.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Setanta Sports Premium HD",
+          "logo": "https://vidmind-blizzard-images.s3.amazonaws.com/5d1013c8-594c-4fb6-a6d1-654df583a246.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/1515.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Fast Sport",
+          "logo": "http://armsmart.nl/armsmart/logos/ARM-kanal-logos/Fast-Sports.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/172.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Fast Sport 1",
+          "logo": "https://epg.iptvx.one/picons/fast-sport-1-am.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/173.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Fast Sport 2",
+          "logo": "http://armsmart.nl/armsmart/logos/ARM-kanal-logos/Fast-Sport-2.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/174.ts",
+          "type": "ts"
+        },
+        {
+          "title": "МАТЧ! HD",
+          "logo": "https://inwebview.com/uploads/vx7B7YIwqzYXFHaufUQPSZIA9ugl0h.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/175.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Матч! Арена",
+          "logo": "http://armsmart.nl/armsmart/logos/ARM-kanal-logos/mach-arena.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/176.ts",
+          "type": "ts"
+        },
+        {
+          "title": "KHL Prime HD",
+          "logo": "https://fast.ntvplus.tv/files/image/35/35/12/-channel!wk3.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/1435.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Trace Sport Stars (HD)",
+          "logo": "http://www.tmsimg.com/assets/s84472_ll_h3_aa.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/1436.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Мир Баскетбола",
+          "logo": "https://fast.ntvplus.tv/files/image/88/57/49/-channel!ciz.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/1438.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Матч! Боец",
+          "logo": "https://inwebview.com/uploads/Mc2oUfw4Q5q6WDe5VQj7F3W6CrkyHs.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/177.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Матч! Игра",
+          "logo": "https://inwebview.com/uploads/oCgNL7ovnLMqOpq6jxZLUKM45uLmgZ.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/178.ts",
+          "type": "ts"
+        },
+        {
+          "title": "УПЛ.ТВ HD",
+          "logo": "https://vidmind-blizzard-images.s3.amazonaws.com/c1dcede1-eeb7-4c89-8fef-a7ea80bdc8cb.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/1514.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Суспільне Спорт HD",
+          "logo": "https://vidmind-blizzard-images.s3.amazonaws.com/b2202013-1a0e-4a1d-8217-ab843512e844.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/1517.ts",
+          "type": "ts"
+        },
+        {
+          "title": "КС ТВ | Бокс HD",
+          "logo": "https://vidmind-blizzard-images.s3.amazonaws.com/9d62fad7-efee-45ef-a6ee-ad3bf7827b80.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/1519.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Equalympic",
+          "logo": "https://vidmind-blizzard-images.s3.amazonaws.com/0d6bc36d-6401-491a-8318-238aa1e1b21f.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/1556.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Sport 1",
+          "logo": "https://vidmind-blizzard-images.s3.amazonaws.com/9eaedb0e-5356-410c-85c8-0e94d367144f.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/1520.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Sport 2",
+          "logo": "https://vidmind-blizzard-images.s3.amazonaws.com/91fe2981-1b5e-42ab-8a9f-7a3c936f431e.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/1521.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Sport 3 HD",
+          "logo": "https://vidmind-blizzard-images.s3.amazonaws.com/c5f510bc-e64e-4bde-a16e-b34d32032cab.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/1522.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Sport 4",
+          "logo": "https://vidmind-blizzard-images.s3.amazonaws.com/27aa3cea-f892-4ed7-b57e-e03c32f9827c.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/1530.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Sport 1 Baltic",
+          "logo": "https://vidmind-blizzard-images.s3.amazonaws.com/33e0d58b-111d-4e10-93f1-2a9f9b02d89d.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/1531.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Divisport HD",
+          "logo": "https://vidmind-blizzard-images.s3.amazonaws.com/103d6938-ac74-415a-aa87-2ea3ba66edc8.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/1533.ts",
+          "type": "ts"
+        },
+        {
+          "title": "УПЛ.ТВ Sub 1 HD",
+          "logo": "https://vidmind-blizzard-images.s3.amazonaws.com/7fbdcd44-7d56-4c8e-a327-7551a90593fa.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/1526.ts",
+          "type": "ts"
+        },
+        {
+          "title": "УПЛ.ТВ Sub 2 HD",
+          "logo": "https://vidmind-blizzard-images.s3.amazonaws.com/6a99d8e6-63fe-4c5d-887b-71e856b9d57a.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/1527.ts",
+          "type": "ts"
+        },
+        {
+          "title": "СТАРТ HD",
+          "logo": "https://fast.ntvplus.tv/files/image/88/50/44/-channel!3ki.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/1439.ts",
+          "type": "ts"
+        },
+        {
+          "title": "СТАРТ ТРИУМФ HD",
+          "logo": "https://fast.ntvplus.tv/files/image/88/46/64/-channel!pmm.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/1440.ts",
+          "type": "ts"
+        },
+        {
+          "title": "МАТЧ! СТРАНА HD",
+          "logo": "https://fast.ntvplus.tv/files/image/07/92/25/-channel!hla.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/1441.ts",
+          "type": "ts"
+        },
+        {
+          "title": "УДАР",
+          "logo": "https://fast.ntvplus.tv/files/image/10/25/725/-channel!nw5.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/1743.ts",
+          "type": "ts"
+        },
+        {
+          "title": "ТВ Спорт HD",
+          "logo": "http://ttv.teamcloud.am/static/channel-data/channelicon/218.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/7405.ts",
+          "type": "ts"
+        }
+      ]
+    },
+    {
+      "title": "Ֆիլմ Movie",
+      "items": [
+        {
+          "title": "Индийское кино",
+          "logo": "http://armsmart.nl/armsmart/logos/ARM-kanal-logos/indeeski-kino.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/43.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Bollywood HD",
+          "logo": "https://fast.ntvplus.tv/files/image/88/88/36/-channel!vew.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/1449.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Наше новое кино",
+          "logo": "http://armsmart.nl/armsmart/logos/ARM-kanal-logos/novi-kino.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/64.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Иллюзион",
+          "logo": "http://armsmart.nl/armsmart/logos/ARM-kanal-logos/ilizion.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/65.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Еврокино",
+          "logo": "http://armsmart.nl/armsmart/logos/ARM-kanal-logos/eurokino.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/66.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Капитан Фантастика",
+          "logo": "http://ttv.teamcloud.am/static/channel-data/channelicon/097.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/67.ts",
+          "type": "ts"
+        },
+        {
+          "title": "viju+ Comedy",
+          "logo": "http://armsmart.nl:8080/images/lijjfJg6PQNlzQMGcvkkQn5mBetUU9U-MvW_QPqPqZiqobEAwBLjMJHe0nbBxiEDNDxGqtI1pYuACa3631pAlw.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/1424.ts",
+          "type": "ts"
+        },
+        {
+          "title": "viju+ Premiere",
+          "logo": "https://fast.ntvplus.tv/files/image/79/84/44/-channel!52f.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/1425.ts",
+          "type": "ts"
+        },
+        {
+          "title": "viju+ Serial HD",
+          "logo": "https://fast.ntvplus.tv/files/image/79/84/46/-channel!n6e.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/1427.ts",
+          "type": "ts"
+        },
+        {
+          "title": "viju+ Megahit",
+          "logo": "https://fast.ntvplus.tv/files/image/79/84/40/-channel!6l1.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/106.ts",
+          "type": "ts"
+        },
+        {
+          "title": "viju TV1000",
+          "logo": "https://fast.ntvplus.tv/files/image/80/00/02/-channel!2qx.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/68.ts",
+          "type": "ts"
+        },
+        {
+          "title": "viju TV1000 Action",
+          "logo": "https://fast.ntvplus.tv/files/image/79/84/34/-channel!q25.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/69.ts",
+          "type": "ts"
+        },
+        {
+          "title": "viju TV1000 русское",
+          "logo": "https://fast.ntvplus.tv/files/image/79/84/36/-channel!7vp.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/70.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Русский роман",
+          "logo": "http://armsmart.nl/armsmart/logos/ARM-kanal-logos/russki-roman.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/71.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Русский Детектив",
+          "logo": "https://fast.ntvplus.tv/files/image/88/52/40/-channel!616.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/1472.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Русский Бестселлер",
+          "logo": "https://fast.ntvplus.tv/files/image/88/88/38/-channel!5os.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/1477.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Русский Иллюзион",
+          "logo": "https://fast.ntvplus.tv/files/image/92/85/94/-channel!jy3.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/1478.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Кинохит",
+          "logo": "http://armsmart.nl/armsmart/logos/ARM-kanal-logos/kinoxit.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/72.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Киномикс",
+          "logo": "http://armsmart.nl/armsmart/logos/ARM-kanal-logos/kinomix.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/73.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Киносемья",
+          "logo": "http://armsmart.nl/armsmart/logos/ARM-kanal-logos/kinosemya.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/74.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Киносвидание",
+          "logo": "http://armsmart.nl/armsmart/logos/ARM-kanal-logos/kinosvidanie.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/75.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Кинокомедия",
+          "logo": "http://armsmart.nl/armsmart/logos/ARM-kanal-logos/kinokomedia.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/76.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Кинопремьера",
+          "logo": "http://armsmart.nl/armsmart/logos/ARM-kanal-logos/kinopremira.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/77.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Киносерия",
+          "logo": "http://armsmart.nl/armsmart/logos/ARM-kanal-logos/kinoseria.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/78.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Киноужас",
+          "logo": "http://armsmart.nl/armsmart/logos/ARM-kanal-logos/kinouzas.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/79.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Дом кино",
+          "logo": "http://ttv.teamcloud.am/static/channel-data/channelicon/075.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/80.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Дом Кино Премиум",
+          "logo": "http://ttv.teamcloud.am/static/channel-data/channelicon/074.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/81.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Любимое кино",
+          "logo": "http://armsmart.nl/armsmart/logos/ARM-kanal-logos/lyubimi-kino.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/82.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Родное кино",
+          "logo": "http://armsmart.nl/armsmart/logos/ARM-kanal-logos/radnoe-kino.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/83.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Film UA Drama",
+          "logo": "http://armsmart.nl/armsmart/logos/ARM-kanal-logos/Film_UA_Drama.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/84.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Bolt HD",
+          "logo": "http://armsmart.nl/armsmart/logos/ARM-kanal-logos/Bolt-HD.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/85.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Star Family",
+          "logo": "http://armsmart.nl/armsmart/logos/ARM-kanal-logos/StarFamily.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/86.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Остросюжетное HD",
+          "logo": "https://ttvrun.one/uploads/xdPFw94faKhte3D6LQYxdmTkbERkyf.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/87.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Романтичное HD",
+          "logo": "http://live.viks.tv/posts/2019-03/1553591681_romantichnoe.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/3155.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Душевное",
+          "logo": "http://live.viks.tv/posts/2022-02/1644774212_dushevnoe.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/4577.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Hollywood HD",
+          "logo": "http://armsmart.nl/armsmart/logos/ARM-kanal-logos/Hwollywood-HD.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/89.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Кино та сериалы",
+          "logo": "https://vidmind-blizzard-images.s3.amazonaws.com/e75daeab-36d2-41f8-8c31-23d02f5adf73.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/3154.ts",
+          "type": "ts"
+        },
+        {
+          "title": "FilmBox",
+          "logo": "http://armsmart.nl/armsmart/logos/ARM-kanal-logos/FilmBox.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/90.ts",
+          "type": "ts"
+        },
+        {
+          "title": "FilmBox Arthouse",
+          "logo": "http://armsmart.nl/armsmart/logos/ARM-kanal-logos/FilmBox-Arthouse.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/91.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Мосфильм. Золотая коллекция",
+          "logo": "https://fast.ntvplus.tv/files/image/88/39/72/-channel!wua.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/1432.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Star Cinema",
+          "logo": "http://ttv.teamcloud.am/static/channel-data/channelicon/084.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/92.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Viasat Kino Action HD",
+          "logo": "https://vidmind-blizzard-images.s3.amazonaws.com/02ea0a9f-8547-49d5-acd9-8967488b62de.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/1535.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Viasat Kino Comedy HD",
+          "logo": "https://vidmind-blizzard-images.s3.amazonaws.com/3cb6c314-4462-4362-a992-cfa4b08896a8.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/1536.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Viasat Kino Megahit HD",
+          "logo": "https://vidmind-blizzard-images.s3.amazonaws.com/26a6b34a-3237-4a0d-98a7-690e039325b4.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/1537.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Viasat Kino World",
+          "logo": "https://vidmind-blizzard-images.s3.amazonaws.com/a6584670-a4ad-42c2-8492-dd129ff26f73.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/1538.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Cine + HD",
+          "logo": "https://vidmind-blizzard-images.s3.amazonaws.com/47fad73b-5d24-4a48-8dbd-c1e9aea2483e.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/1539.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Кино 1 HD",
+          "logo": "https://vidmind-blizzard-images.s3.amazonaws.com/922cd455-486f-4262-9ea4-6f47a024bde4.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/1540.ts",
+          "type": "ts"
+        },
+        {
+          "title": "KINO 2 HD",
+          "logo": "https://vidmind-blizzard-images.s3.amazonaws.com/edf8e349-385d-4982-a02b-f98fdc858aed.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/1541.ts",
+          "type": "ts"
+        },
+        {
+          "title": "AMEDIA Premium HD",
+          "logo": "http://ttv.teamcloud.am/static/channel-data/channelicon/233.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/105.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Сарафан",
+          "logo": "http://ttv.teamcloud.am/static/channel-data/channelicon/083.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/7450.ts",
+          "type": "ts"
+        },
+        {
+          "title": "AMEDIA HIT",
+          "logo": "http://ttv.teamcloud.am/static/channel-data/channelicon/232.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/7437.ts",
+          "type": "ts"
+        },
+        {
+          "title": "AMEDIA 1",
+          "logo": "http://ttv.teamcloud.am/static/channel-data/channelicon/230.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/7439.ts",
+          "type": "ts"
+        },
+        {
+          "title": "AMEDIA  2",
+          "logo": "http://ttv.teamcloud.am/static/channel-data/channelicon/231.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/7438.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Индия TV",
+          "logo": "http://ttv.teamcloud.am/static/channel-data/channelicon/069.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/7446.ts",
+          "type": "ts"
+        },
+        {
+          "title": "4You",
+          "logo": "http://ttv.teamcloud.am/static/channel-data/channelicon/234.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/7440.ts",
+          "type": "ts"
+        },
+        {
+          "title": "TV XXI",
+          "logo": "http://ttv.teamcloud.am/static/channel-data/channelicon/080.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/7447.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Suspense",
+          "logo": "http://ttv.teamcloud.am/static/channel-data/channelicon/081.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/7448.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Arsenal TV",
+          "logo": "https://ttv.teamcloud.am/static/channel-data/channelicon/082.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/7449.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Настоящее страшное кино",
+          "logo": "http://ttv.teamcloud.am/static/channel-data/channelicon/090.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/7451.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Red",
+          "logo": "https://avatars.mds.yandex.net/get-tv-channel-logos/27485/2a0000017b0d0ac5105b1bc0f19820baf9aa/428x280",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/12485.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Sci Fi",
+          "logo": "https://www.cableman.ru/sites/default/files/scifi.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/12486.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Black",
+          "logo": "https://www.cableman.ru/sites/default/files/black.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/12487.ts",
+          "type": "ts"
+        },
+        {
+          "title": "КИНЕКО HD",
+          "logo": "https://fast.ntvplus.tv/files/image/88/92/07/-channel!q5e.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/12687.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Romance",
+          "logo": "https://fast.ntvplus.tv/files/image/88/20/95/-channel!yo8.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/12690.ts",
+          "type": "ts"
+        },
+        {
+          "title": "SAGA TV",
+          "logo": "https://fast.ntvplus.tv/files/image/94/36/55/-channel!429.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/12691.ts",
+          "type": "ts"
+        }
+      ]
+    },
+    {
+      "title": "երեխաներ kids",
+      "items": [
+        {
+          "title": "СТС Кидс",
+          "logo": "http://ttv.teamcloud.am/static/channel-data/channelicon/094.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/56.ts",
+          "type": "ts"
+        },
+        {
+          "title": "TiJi",
+          "logo": "http://ttv.teamcloud.am/static/channel-data/channelicon/098.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/1408.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Gulli Girl",
+          "logo": "https://fast.ntvplus.tv/files/image/02/32/80/-channel!l1q.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/1409.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Ani",
+          "logo": "https://fast.ntvplus.tv/files/image/01/18/02/-channel!prv.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/1411.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Радость моя",
+          "logo": "https://fast.ntvplus.tv/files/image/01/17/57/-channel!k9r.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/1412.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Мульт",
+          "logo": "http://ttv.teamcloud.am/static/channel-data/channelicon/096.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/1413.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Уникум",
+          "logo": "https://fast.ntvplus.tv/files/image/69/92/69/-channel!7x1.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/1414.ts",
+          "type": "ts"
+        },
+        {
+          "title": "BABY TIME",
+          "logo": "https://fast.ntvplus.tv/files/image/88/48/91/-channel!zup.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/1415.ts",
+          "type": "ts"
+        },
+        {
+          "title": "СОЛНЦЕ",
+          "logo": "https://fast.ntvplus.tv/files/image/88/61/43/-channel!53b.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/1570.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Cartoon Classics",
+          "logo": "https://fast.ntvplus.tv/files/image/87/65/39/-channel!thg.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/1416.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Ducktv",
+          "logo": "https://fast.ntvplus.tv/files/image/35/30/18/-channel!59y.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/1417.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Kids TV HD",
+          "logo": "https://fast.ntvplus.tv/files/image/88/39/75/-channel!wps.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/1418.ts",
+          "type": "ts"
+        },
+        {
+          "title": "В гостях у сказки",
+          "logo": "https://fast.ntvplus.tv/files/image/88/63/90/-channel!542.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/1419.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Детский мир HD",
+          "logo": "http://ttv.teamcloud.am/static/channel-data/channelicon/093.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/1420.ts",
+          "type": "ts"
+        },
+        {
+          "title": "КиноМульт",
+          "logo": "https://fast.ntvplus.tv/files/image/87/65/38/-channel!n1h.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/1421.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Мультимузыка",
+          "logo": "https://fast.ntvplus.tv/files/image/88/58/26/-channel!hnh.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/1422.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Рыжий",
+          "logo": "http://ttv.teamcloud.am/static/channel-data/channelicon/095.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/7452.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Cartoon Network",
+          "logo": "http://ttv.teamcloud.am/static/channel-data/channelicon/101.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/7442.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Cartoonito",
+          "logo": "http://ttv.teamcloud.am/static/channel-data/channelicon/102.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/7443.ts",
+          "type": "ts"
+        },
+        {
+          "title": "СуперГерои",
+          "logo": "https://fast.ntvplus.tv/files/image/69/18/31/-channel!hen.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/1423.ts",
+          "type": "ts"
+        },
+        {
+          "title": "Карусель",
+          "logo": "https://online-red.com/images/tv/karusel.png",
+          "stream": "http://armsmart.nl:8080/freetvportal/freetvportal/12493.ts",
+          "type": "ts"
+        }
+      ]
+    }
+  ]
+}
