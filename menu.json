@@ -1,20 +1,13 @@
 {
-  "type": "menu",
-  "name": "LiveTV Zone",
-  "version": "1.0.0",
   "headline": "LiveTV Zone",
   "items": [
     {
-      "type": "button",
       "title": "📺 IPTV",
-      "action": "link",
-      "data": "https://livetvzone.github.io/tgplay/iptv.json"
+      "action": "content:https://livetvzone.github.io/tgplay/iptv.json"
     },
     {
-      "type": "button",
       "title": "📅 EPG",
-      "action": "link",
-      "data": "https://livetvzone.github.io/tgplay/epg.json"
+      "action": "content:https://livetvzone.github.io/tgplay/epg.json"
     }
   ]
 }
