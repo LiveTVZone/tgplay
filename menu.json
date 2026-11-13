@@ -4,7 +4,7 @@
     {
       "icon": "movie",
       "label": "📺 IPTV",
-      "data": "https://msx.benzac.de/services/m3u.php?type=video&mode=extended&url=https://raw.githubusercontent.com/LiveTVZone/iptv/refs/heads/main/iptv.m3u8"
+      "data": "https://msx.benzac.de/services/m3u.php?type=video&mode=extended&url=https://raw.githubusercontent.com/LiveTVZone/tgplay/refs/heads/main/playlist.m3u8"
     }
   ]
 }
